@@ -127,6 +127,15 @@ bankapp/
 
 ---
 
+---
+
+## Screenshot
+
+![Bank Application](sc1.png)
+![Bank Application](sc2.png)
+![Bank Application](sc3.png)
+---
+
 ## Purpose of the Project
 
 This project was developed to:
