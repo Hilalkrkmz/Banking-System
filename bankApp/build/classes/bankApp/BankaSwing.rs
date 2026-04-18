@@ -1,0 +1,2 @@
+bankaUygulamasi.BankaSwing
+bankApp.BankaSwing
