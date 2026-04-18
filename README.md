@@ -144,16 +144,3 @@ This project was developed to:
 * Simulate a real-world banking system
 * Gain experience with Java Swing GUI development
 * Practice exception handling and modular design
-
----
-
-## Future Improvements
-
-* Database integration (MySQL / SQLite)
-* REST API development (Spring Boot)
-* Mobile application (Android)
-* Secure authentication system
-
-
-
-
